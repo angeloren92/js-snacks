@@ -1,11 +1,11 @@
 console.log('test');
 
-let somma = 0;
+let boxNumbers = [];
 
 for (let i = 0; i < 6; i++) {
     let numero = parseInt(prompt('Inserisci un numero: '));
     if (numero % 2 !== 0) {
-        somma = somma + numero;
+        boxNumbers.push(numero);
     }
 }
-console.log(somma);
+console.log(boxNumbers);
