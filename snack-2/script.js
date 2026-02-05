@@ -1,6 +1,5 @@
 console.log('test');
 
-
 const parola1 = prompt('inserisci una parola: ');
 const parola2 = prompt('inserisci altra parola: ');
 const lunghezza = [parola1.length, parola2.length];
