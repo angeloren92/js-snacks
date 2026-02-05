@@ -13,5 +13,4 @@ if (!isNaN(firstNumber && secondNumber)) {
     }
 } else {
     alert('Inserisci solo numeri per favore');
-
 }
