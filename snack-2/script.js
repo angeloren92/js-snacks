@@ -16,6 +16,6 @@ if (isNaN(parola1 && parola2)) {
         console.log(message, parola1, parola2);
     }
 } else {
-    message = 'inserisci delle parole!!!'
+    message = 'inserisci delle parole!!!';
     alert(message);
 }
